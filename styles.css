@@ -1,0 +1,38 @@
+.phone{
+    width: 3.7in;
+    height: 6.8in;
+   
+    background-color: rgb(70, 69, 69);
+    margin: auto;
+    border-radius:8px ;
+    display: flex;
+
+
+    
+   
+   
+}
+
+.phone .screen{
+
+   margin: auto;
+    width: 3.4in;
+    height: 6.0in;
+    border-radius: 5px;
+    align-items: center;
+    background-color:rgb(20, 45, 85);
+    
+    
+}
+
+
+ .msg{
+    width: 1.6cm;
+   margin-left: 1rem;
+   margin-top: 5.3in;
+   border-image: 5px;
+}
+
+
+
+
