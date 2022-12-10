@@ -1,0 +1,76 @@
+.phone{
+    width: 3.7in;
+    height: 6.8in;
+   
+    background-color: rgb(70, 69, 69);
+    margin: auto;
+    border-radius:8px ;
+    display: flex;
+
+
+    
+   
+   
+}
+
+.phone .screen{
+  display: flex;
+   margin: auto;
+    width: 3.4in;
+    height: 6.0in;
+    border-radius: 5px;
+    align-items: center;
+    background-color:rgb(243, 244, 247);
+    
+    
+}
+
+.login{
+    margin: auto;
+    border-radius: 4px;
+    width:2.7in ;
+    height: 3.2in;
+    background-color: white;
+    box-shadow: 2px 2px 1px 1px  black ;
+}
+ .login button{
+    margin-left: 0.8rem;
+    width:13rem;
+    height: 0.9cm;
+    border-radius: 5px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background-color:#1877f2 ;
+
+
+ }
+.login h2  {
+    margin-left: 1.8rem;
+    color:#1877f2;
+    font-size: 4ch;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input[type="checkbox"]
+
+{
+    margin-left: 1.8rem;
+    align-items: center;
+}
+input[type="email"]{
+    margin-left: 0.8rem;
+    width:13rem;
+    height: 0.9cm;
+    border-radius: 5px;
+}
+input[type="Password"]{
+    margin-left: 0.8rem;
+    width:13rem;
+    height: 0.9cm;
+    border-radius: 5px;
+}
+.login a{
+    margin-left: 1.8rem;
+    text-decoration: none;
+    color: black;
+}
